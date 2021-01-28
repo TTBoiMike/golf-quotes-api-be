@@ -1,32 +1,117 @@
 [
     {
         "id": "a1",
-        "name": "Tiger Woods",
-        "quote": "Tiger test quote",
-        "tags": ["icon"]
+        "name": "Arnold Palmer",
+        "quote": "Success in this game depends less on strength of body than strength of mind and character.",
+        "tags": ["inspirational"]
     },
     {
         "id": "a2",
-        "name": "Jack Nicklaus",
-        "quote": "Nicklaus test quote",
-        "tags": ["icon"]
+        "name": "Arnold Palmer",
+        "quote": "I have a tip that can take five stroke off anyone's game. It's called an eraser",
+        "tags": ["funny"]
     },
     {
         "id": "a3",
         "name": "Arnold Palmer",
-        "quote": "Palmer test quote",
-        "tags": ["icon"]
+        "quote": "Golf is deceptively simple and endlessly complicated; it satisfies the soul and frustrates the intellect. It is at the same time rewarding and maddening – and it is without a doubt the greatest game mankind has ever invented.",
+        "tags": ["inspirational"]
     },
     {
         "id": "a4",
-        "name": "Bob Rotella",
-        "quote": "Golf isn't a game of perfect",
+        "name": "Arnold Palmer",
+        "quote": "The game has such a hold on golfers because they compete not only against an opponent, but also against the course, against par, and most surely - against themselves.",
+        "tags": ["inspirational"]
+    },
+     {
+        "id": "a5",
+        "name": "Arnold Palmer",
+        "quote": "Always make a total effort, even when the odds are against you.",
+        "tags": ["inspirational"]
+    },
+    {
+        "id": "a6",
+        "name": "Arnold Palmer",
+        "quote": "Putting is like wisdom – partly a natural gift and partly the accumulation of experience.",
+        "tags": ["player"]
+    },
+    {
+        "id": "a7",
+        "name": "Tiger Woods",
+        "quote": "I get to play golf for a living. What more can you ask for, getting paid for doing what you love.",
+        "tags": ["player"]
+    },
+    {
+        "id": "a8",
+        "name": "Sergio Garcia",
+        "quote": "If you worry about making bogeys, it makes the game that much more difficult. You put more pressure on yourself without even noticing it. It makes a difference to take it easy when things aren’t going right.",
+        "tags": ["player"]
+    },
+    {
+        "id": "a9",
+        "name": "Sergio Garcia",
+        "quote": "There’s no such thing as bad weather, only inappropriate clothing!",
+        "tags": ["funny"]
+    },
+    {
+        "id": "a10",
+        "name": "Sergio Garcia",
+        "quote": "Golf… is the infallible test. The man who can go into a patch of rough alone, with the knowledge that only God is watching him, and play his ball where it lies, is the man who will serve you faithfully and well.",
+        "tags": ["inspirational"]
+    },
+    {
+        "id": "a11",
+        "name": "Lorii Myers",
+        "quotes": "The value of routine; trusting your swing.",
+        "tags": ["player"]
+    },
+        {
+        "id": "a12",
+        "name": "Gary Player",
+        "quotes": "A good golfer has the determination to win and the patience to wait for the breaks.",
+        "tags": ["player"]
+    },
+    {
+        "id": "a13",
+        "name": "Jack Nicklaus",
+        "quotes": "Arnold’s place in history will be as the man who took golf from being a game for the few to a sport for the masses. He was the catalyst who made that happen.",
+        "tags": ["inspirational"]
+    },
+    {
+        "id": "a14",
+        "name": "Jack Nicklaus",
+        "quotes": "Resolve never to quit, never to give up, no matter what the situation",
+        "tags": ["inspirational"]
+    },
+    {
+        "id": "a15",
+        "name": "Jack Nicklaus",
+        "quotes": "The older you get the stronger the wind gets — and it's always in your face.",
+        "tags": ["funny"]
+    },
+    {
+        "id": "a16",
+        "name": "Jack Nicklaus",
+        "quotes": "Learn the fundamentals of the game and stick to them. Band-Aid remedies never last.",
         "tags": ["coach"]
     },
     {
-        "id": "a5",
-        "name": "Phil Kenyon",
-        "quote": "Putting is a state of mind",
-        "tags": ["coach"]
-    }
+        "id": "a17",
+        "name": "Jack Nicklaus",
+        "quotes": "Professional golf is the only sport where, if you win 20% of the time, you're the best.",
+        "tags": ["funny"]
+    },
+        {
+        "id": "a18",
+        "name": "Jack Nicklaus",
+        "quotes": "Sometimes the biggest problem is in your head. You've got to play a shot instead of wondering where your next bad shot is coming from.",
+        "tags": ["inspirational"]
+    },
+        {
+        "id": "a19",
+        "name": "Jack Nicklaus",
+        "quotes": "Confidence is the single most important factorin the game. No matter how great your natural talent, there is only one way to obtain and sustain it: work.",
+        "tags": ["inspirational"]
+    },
+
 ]

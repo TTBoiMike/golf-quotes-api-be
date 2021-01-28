@@ -29,7 +29,7 @@ exports.random = (req, res) => {
     let number = Math.floor(Math.random() * quotes.length)
     if(req.params.tag !== undefined) {
         let filteredQuotes = quotes.filter(quote => quote.tags.includes(req.params.tag))
-        res.send(filteredQuotes[number])
+        res.send(filteredQuotes[number-1])
     } else {
         console.log("random")
         res.send(quotes[number])
