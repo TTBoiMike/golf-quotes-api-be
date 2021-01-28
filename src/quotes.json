@@ -1,0 +1,32 @@
+[
+    {
+        "id": "a1",
+        "name": "Tiger Woods",
+        "quote": "Tiger test quote",
+        "tags": ["icon"]
+    },
+    {
+        "id": "a2",
+        "name": "Jack Nicklaus",
+        "quote": "Nicklaus test quote",
+        "tags": ["icon"]
+    },
+    {
+        "id": "a3",
+        "name": "Arnold Palmer",
+        "quote": "Palmer test quote",
+        "tags": ["icon"]
+    },
+    {
+        "id": "a4",
+        "name": "Bob Rotella",
+        "quote": "Golf isn't a game of perfect",
+        "tags": ["coach"]
+    },
+    {
+        "id": "a5",
+        "name": "Phil Kenyon",
+        "quote": "Putting is a state of mind",
+        "tags": ["coach"]
+    }
+]
