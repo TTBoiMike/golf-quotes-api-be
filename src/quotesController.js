@@ -3,7 +3,7 @@ const quotes = require('./quotes');
 
 exports.random = (req, res) => {
     let number = Math.floor(Math.random() * quotes.length)
-    res.send(quotes[number])
+    res.send([quotes[number]])
 }
 exports.randomByTag = (req, res) => {
     // console.log(req.query.limit)
