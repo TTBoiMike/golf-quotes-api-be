@@ -1,212 +1,314 @@
 [
     {
         "id": "a1",
-        "name": "Arnold Palmer",
+        "name": {
+            "surname": "Palmer",
+            "firstname": "Arnold"
+        },
         "quote": "Success in this game depends less on strength of body than strength of mind and character.",
         "tag": ["inspirational"]
     },
     {
         "id": "a2",
-        "name": "Arnold Palmer",
+        "name": {
+            "surname": "Palmer",
+            "firstname": "Arnold"
+        },
         "quote": "I have a tip that can take five stroke off anyone's game. It's called an eraser",
         "tag": ["funny"]
     },
     {
         "id": "a3",
-        "name": "Arnold Palmer",
+        "name": {
+            "surname": "Palmer",
+            "firstname": "Arnold"
+        },
         "quote": "Golf is deceptively simple and endlessly complicated; it satisfies the soul and frustrates the intellect. It is at the same time rewarding and maddening – and it is without a doubt the greatest game mankind has ever invented.",
         "tag": ["inspirational"]
     },
     {
         "id": "a4",
-        "name": "Arnold Palmer",
+        "name": {
+            "surname": "Palmer",
+            "firstname": "Arnold"
+        },
         "quote": "The game has such a hold on golfers because they compete not only against an opponent, but also against the course, against par, and most surely - against themselves.",
         "tag": ["inspirational"]
     },
      {
         "id": "a5",
-        "name": "Arnold Palmer",
+        "name": {
+            "surname": "Palmer",
+            "firstname": "Arnold"
+        },
         "quote": "Always make a total effort, even when the odds are against you.",
         "tag": ["inspirational"]
     },
     {
         "id": "a6",
-        "name": "Arnold Palmer",
+        "name": {
+            "surname": "Palmer",
+            "firstname": "Arnold"
+        },
         "quote": "Putting is like wisdom – partly a natural gift and partly the accumulation of experience.",
         "tag": ["player"]
     },
     {
         "id": "a8",
-        "name": "Sergio Garcia",
+        "name": {
+            "surname": "Garcia",
+            "firstname": "Sergio"
+        },
         "quote": "If you worry about making bogeys, it makes the game that much more difficult. You put more pressure on yourself without even noticing it. It makes a difference to take it easy when things aren’t going right.",
         "tag": ["player"]
     },
     {
         "id": "a9",
-        "name": "Sergio Garcia",
+        "name": {
+            "surname": "Garcia",
+            "firstname": "Sergio"
+        },
         "quote": "There’s no such thing as bad weather, only inappropriate clothing!",
         "tag": ["funny"]
     },
     {
         "id": "a10",
-        "name": "P.G Wodehouse",
+        "name": {
+            "surname": "Wodehouse",
+            "firstname": "P.G."
+        },
         "quote": "Golf… is the infallible test. The man who can go into a patch of rough alone, with the knowledge that only God is watching him, and play his ball where it lies, is the man who will serve you faithfully and well.",
         "tag": ["inspirational"]
     },
     {
         "id": "a12",
-        "name": "Gary Player",
+        "name": {
+            "surname": "Player",
+            "firstname": "Gary"
+        },
         "quote": "A good golfer has the determination to win and the patience to wait for the breaks.",
         "tag": ["player"]
     },
     {
         "id": "a13",
-        "name": "Jack Nicklaus",
+        "name": {
+            "surname": "Nicklaus",
+            "firstname": "Jack"
+        },
         "quote": "Arnold’s place in history will be as the man who took golf from being a game for the few to a sport for the masses. He was the catalyst who made that happen.",
         "tag": ["inspirational"]
     },
     {
         "id": "a14",
-        "name": "Jack Nicklaus",
+        "name": {
+            "surname": "Nicklaus",
+            "firstname": "Jack"
+        },
         "quote": "Resolve never to quit, never to give up, no matter what the situation",
         "tag": ["inspirational"]
     },
     {
         "id": "a15",
-        "name": "Jack Nicklaus",
+        "name": {
+            "surname": "Nicklaus",
+            "firstname": "Jack"
+        },
         "quote": "The older you get the stronger the wind gets — and it's always in your face.",
         "tag": ["funny"]
     },
     {
         "id": "a16",
-        "name": "Jack Nicklaus",
+        "name": {
+            "surname": "Nicklaus",
+            "firstname": "Jack"
+        },
         "quote": "Learn the fundamentals of the game and stick to them. Band-Aid remedies never last.",
         "tag": ["coach"]
     },
     {
         "id": "a17",
-        "name": "Jack Nicklaus",
+        "name": {
+            "surname": "Nicklaus",
+            "firstname": "Jack"
+        },
         "quote": "Professional golf is the only sport where, if you win 20% of the time, you're the best.",
         "tag": ["funny"]
     },
     {
         "id": "a18",
-        "name": "Jack Nicklaus",
+        "name": {
+            "surname": "Nicklaus",
+            "firstname": "Jack"
+        },
         "quote": "Sometimes the biggest problem is in your head. You've got to play a shot instead of wondering where your next bad shot is coming from.",
         "tag": ["inspirational"]
     },
     {
         "id": "a19",
-        "name": "Jack Nicklaus",
+        "name": {
+            "surname": "Nicklaus",
+            "firstname": "Jack"
+        },
         "quote": "Confidence is the single most important factorin the game. No matter how great your natural talent, there is only one way to obtain and sustain it: work.",
         "tag": ["inspirational"]
     },
     {
         "id": "a20",
-        "name": "Jack Nicklaus",
+        "name": {
+            "surname": "Nicklaus",
+            "firstname": "Jack"
+        },
         "quote": "It takes hundreds of good golf shots to gain confidence, but only one bad one to lose it.",
         "tag": ["inspirational"]
     },
     {
         "id": "a21",
-        "name": "Dr Bob Rotella",
-        "quote": "Golf is about how well you accept, respond to, and score with your misses much more so than it is a game of your perfect shots.",
+        "name": {
+            "surname": "Rotella",
+            "firstname": "Dr Bob"
+        },        "quote": "Golf is about how well you accept, respond to, and score with your misses much more so than it is a game of your perfect shots.",
         "tag": ["coach"]
     },
     {
         "id": "a22",
-        "name": "Gary Player",
+        "name": {
+            "surname": "Player",
+            "firstname": "Gary"
+        },
         "quote": "The more I work and practice, the luckier I seem to get.",
         "tag": ["funny"]
     },
     {
         "id": "a23",
-        "name": "Bobby Jones",
+        "name": {
+            "surname": "Jones",
+            "firstname": "Bobby"
+        },
         "quote": "One reason golf is such an exasperating game is that a thing we learned is so easily forgotten, and we find ourselves struggling year after year with faults we had discovered and corrected time and again.",
         "tag": ["player"]
     },
     {
         "id": "a24",
-        "name": "Harry Vardon",
+        "name": {
+            "surname": "Vardon",
+            "firstname": "Harry"
+        },
         "quote": "For this game you need, above all things, to be in a tranquil frame of mind.",
         "tag": ["player"]
     },
     {
         "id": "a25",
-        "name": "Ben Hogan",
+        "name": {
+            "surname": "Hogan",
+            "firstname": "Ben"
+        },
         "quote": "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
         "tag": ["inspirational"]
     },
     {
         "id": "a26",
-        "name": "Ben Sayers",
+        "name": {
+            "surname": "Sayers",
+            "firstname": "Ben"
+        },
         "quote": "A good player who is a great putter is a match for any golfer. A great hitter who cannot putt is a match for no one.",
         "tag": ["inspirational"]
     },
     {
         "id": "a27",
-        "name": "Bubba Watson",
+        "name": {
+            "surname": "Watson",
+            "firstname": "Bubba"
+        },        
         "quote": "Everybody can see that my swing is homegrown. That means everybody has a chance to do it.",
         "tag": ["inspirational"]
     },
     {
         "id": "a28",
-        "name": "Sam Snead",
+        "name": {
+            "surname": "Snead",
+            "firstname": "Sam"
+        },        
         "quote": "Forget your opponents; always play against par.",
         "tag": ["player"]
     },    
     {
         "id": "a29",
-        "name": "P.G Wodehouse",
+        "name": {
+            "surname": "Wodehouse",
+            "firstname": "P.G."
+        },
         "quote": "To find a man’s true character, play golf with him.",
         "tag": ["funny"]
     },
     {
         "id": "a30",
-        "name": "Jack Benny",
+        "name": {
+            "surname": "Benny",
+            "firstname": "Jack"
+        },
         "quote": "Give me golf clubs, fresh air and a beautiful partner, and you can keep the clubs and the fresh air.",
         "tag": ["funny"]
     },
     {
         "id": "a31",
-        "name": "Lee Trevino",
+        "name": {
+            "surname": "Trevino",
+            "firstname": "Lee"
+        },
         "quote": "You don’t know what pressure is until you play for five bucks with only two bucks in your pocket.",
         "tag": ["funny"]
     },
     {
         "id": "a32",
-        "name": "Raymond Floyd",
+        "name": {
+            "surname": "Floyd",
+            "firstname": "Raymond"
+        },
         "quote": "They call it golf because all the other four letter words were taken.",
         "tag": ["funny"]
     },
     {
         "id": "a33",
-        "name": "Bobby Jones",
+        "name": {
+            "surname": "Jones",
+            "firstname": "Bobby"
+        },        
         "quote": "Golf is the closest game to the game we call life. You get bad breaks from good shots; you get good breaks from bad shots - but you have to play where the ball lies.",
         "tag": ["inspirational"]
     },
     {
         "id": "a34",
-        "name": "Sam Snead",
+        "name": {
+            "surname": "Snead",
+            "firstname": "Sam"
+        },        
         "quote": "If a lot of people gripped a knife and fork the way they do a golf club, they’d starve to death.",
         "tag": ["funny"]
     },
     {
         "id": "a35",
-        "name": "Jackie Burke Jnr",
-        "quote": "Bad putting stems from thinking 'how' instead of 'where.",
+        "name": {
+            "surname": "Burke Jnr",
+            "firstname": "Jackie"
+        },        "quote": "Bad putting stems from thinking 'how' instead of 'where.",
         "tag": ["coach"]
     },
     {
         "id": "a36",
-        "name": "David Leadbetter",
+        "name": {
+            "surname": "Leadbetter",
+            "firstname": "David"
+        },        
         "quote": "The ultimate goal is to convert your athletic swing to pure instinct rather than conscious thought.",
         "tag": ["coach"]
     },
         {
         "id": "a37",
-        "name": "Butch Harmon",
-        "quote": "It's much easier to have one swing thought than many.",
+        "name": {
+            "surname": "Harmon",
+            "firstname": "Butch"
+        },        "quote": "It's much easier to have one swing thought than many.",
         "tag": ["coach"]
     }
 ]
