@@ -1,6 +1,5 @@
 [
-    {
-        "id": "a1",
+    {        
         "name": {
             "surname": "Palmer",
             "firstname": "Arnold"
@@ -8,8 +7,7 @@
         "quote": "Success in this game depends less on strength of body than strength of mind and character.",
         "tag": ["inspirational"]
     },
-    {
-        "id": "a2",
+    {        
         "name": {
             "surname": "Palmer",
             "firstname": "Arnold"
@@ -17,8 +15,7 @@
         "quote": "I have a tip that can take five stroke off anyone's game. It's called an eraser",
         "tag": ["funny"]
     },
-    {
-        "id": "a3",
+    {        
         "name": {
             "surname": "Palmer",
             "firstname": "Arnold"
@@ -26,8 +23,7 @@
         "quote": "Golf is deceptively simple and endlessly complicated; it satisfies the soul and frustrates the intellect. It is at the same time rewarding and maddening – and it is without a doubt the greatest game mankind has ever invented.",
         "tag": ["inspirational"]
     },
-    {
-        "id": "a4",
+    {        
         "name": {
             "surname": "Palmer",
             "firstname": "Arnold"
@@ -35,17 +31,7 @@
         "quote": "The game has such a hold on golfers because they compete not only against an opponent, but also against the course, against par, and most surely - against themselves.",
         "tag": ["inspirational"]
     },
-     {
-        "id": "a5",
-        "name": {
-            "surname": "Palmer",
-            "firstname": "Arnold"
-        },
-        "quote": "Always make a total effort, even when the odds are against you.",
-        "tag": ["inspirational"]
-    },
-    {
-        "id": "a6",
+    {        
         "name": {
             "surname": "Palmer",
             "firstname": "Arnold"
@@ -53,8 +39,7 @@
         "quote": "Putting is like wisdom – partly a natural gift and partly the accumulation of experience.",
         "tag": ["player"]
     },
-    {
-        "id": "a8",
+    {        
         "name": {
             "surname": "Garcia",
             "firstname": "Sergio"
@@ -62,8 +47,7 @@
         "quote": "If you worry about making bogeys, it makes the game that much more difficult. You put more pressure on yourself without even noticing it. It makes a difference to take it easy when things aren’t going right.",
         "tag": ["player"]
     },
-    {
-        "id": "a9",
+    {        
         "name": {
             "surname": "Garcia",
             "firstname": "Sergio"
@@ -72,7 +56,7 @@
         "tag": ["funny"]
     },
     {
-        "id": "a10",
+        
         "name": {
             "surname": "Wodehouse",
             "firstname": "P.G."
@@ -81,7 +65,7 @@
         "tag": ["inspirational"]
     },
     {
-        "id": "a12",
+        
         "name": {
             "surname": "Player",
             "firstname": "Gary"
@@ -90,7 +74,7 @@
         "tag": ["player"]
     },
     {
-        "id": "a13",
+        
         "name": {
             "surname": "Nicklaus",
             "firstname": "Jack"
@@ -99,16 +83,7 @@
         "tag": ["inspirational"]
     },
     {
-        "id": "a14",
-        "name": {
-            "surname": "Nicklaus",
-            "firstname": "Jack"
-        },
-        "quote": "Resolve never to quit, never to give up, no matter what the situation",
-        "tag": ["inspirational"]
-    },
-    {
-        "id": "a15",
+        
         "name": {
             "surname": "Nicklaus",
             "firstname": "Jack"
@@ -117,16 +92,16 @@
         "tag": ["funny"]
     },
     {
-        "id": "a16",
+        
         "name": {
             "surname": "Nicklaus",
             "firstname": "Jack"
         },
-        "quote": "Learn the fundamentals of the game and stick to them. Band-Aid remedies never last.",
+        "quote": "Learn the fundamentals of the game and stick to them. Ba never last.",
         "tag": ["coach"]
     },
     {
-        "id": "a17",
+        
         "name": {
             "surname": "Nicklaus",
             "firstname": "Jack"
@@ -135,7 +110,7 @@
         "tag": ["funny"]
     },
     {
-        "id": "a18",
+        
         "name": {
             "surname": "Nicklaus",
             "firstname": "Jack"
@@ -144,25 +119,25 @@
         "tag": ["inspirational"]
     },
     {
-        "id": "a19",
+        
         "name": {
             "surname": "Nicklaus",
             "firstname": "Jack"
         },
-        "quote": "Confidence is the single most important factorin the game. No matter how great your natural talent, there is only one way to obtain and sustain it: work.",
+        "quote": "Condidence is the single most important factor in this game. No matter how great your natural talent, there is only one way to obtain and sustain it: work.",
         "tag": ["inspirational"]
     },
     {
-        "id": "a20",
+        
         "name": {
             "surname": "Nicklaus",
             "firstname": "Jack"
         },
-        "quote": "It takes hundreds of good golf shots to gain confidence, but only one bad one to lose it.",
+        "quote": "It takes hundreds of good golf shots to gain confidence but only one bad one to lose it.",
         "tag": ["inspirational"]
     },
     {
-        "id": "a21",
+        
         "name": {
             "surname": "Rotella",
             "firstname": "Dr Bob"
@@ -170,16 +145,16 @@
         "tag": ["coach"]
     },
     {
-        "id": "a22",
+        
         "name": {
             "surname": "Player",
             "firstname": "Gary"
         },
-        "quote": "The more I work and practice, the luckier I seem to get.",
-        "tag": ["funny"]
+        "quote": "The more I practice, the luckier I seem to get.",
+        "tag": ["famous"]
     },
     {
-        "id": "a23",
+        
         "name": {
             "surname": "Jones",
             "firstname": "Bobby"
@@ -188,7 +163,7 @@
         "tag": ["player"]
     },
     {
-        "id": "a24",
+        
         "name": {
             "surname": "Vardon",
             "firstname": "Harry"
@@ -197,7 +172,7 @@
         "tag": ["player"]
     },
     {
-        "id": "a25",
+        
         "name": {
             "surname": "Hogan",
             "firstname": "Ben"
@@ -206,16 +181,16 @@
         "tag": ["inspirational"]
     },
     {
-        "id": "a26",
+        
         "name": {
             "surname": "Sayers",
             "firstname": "Ben"
         },
         "quote": "A good player who is a great putter is a match for any golfer. A great hitter who cannot putt is a match for no one.",
-        "tag": ["inspirational"]
+        "tag": ["player"]
     },
     {
-        "id": "a27",
+        
         "name": {
             "surname": "Watson",
             "firstname": "Bubba"
@@ -224,7 +199,7 @@
         "tag": ["inspirational"]
     },
     {
-        "id": "a28",
+        
         "name": {
             "surname": "Snead",
             "firstname": "Sam"
@@ -233,7 +208,7 @@
         "tag": ["player"]
     },    
     {
-        "id": "a29",
+        
         "name": {
             "surname": "Wodehouse",
             "firstname": "P.G."
@@ -242,7 +217,7 @@
         "tag": ["funny"]
     },
     {
-        "id": "a30",
+        
         "name": {
             "surname": "Benny",
             "firstname": "Jack"
@@ -251,7 +226,7 @@
         "tag": ["funny"]
     },
     {
-        "id": "a31",
+        
         "name": {
             "surname": "Trevino",
             "firstname": "Lee"
@@ -260,7 +235,7 @@
         "tag": ["funny"]
     },
     {
-        "id": "a32",
+        
         "name": {
             "surname": "Floyd",
             "firstname": "Raymond"
@@ -269,7 +244,7 @@
         "tag": ["funny"]
     },
     {
-        "id": "a33",
+        
         "name": {
             "surname": "Jones",
             "firstname": "Bobby"
@@ -278,7 +253,7 @@
         "tag": ["inspirational"]
     },
     {
-        "id": "a34",
+        
         "name": {
             "surname": "Snead",
             "firstname": "Sam"
@@ -287,28 +262,160 @@
         "tag": ["funny"]
     },
     {
-        "id": "a35",
+        
         "name": {
-            "surname": "Burke Jnr",
+            "surname": "Burke",
             "firstname": "Jackie"
         },        "quote": "Bad putting stems from thinking 'how' instead of 'where.",
         "tag": ["coach"]
     },
     {
-        "id": "a36",
+        
         "name": {
             "surname": "Leadbetter",
-            "firstname": "David"
+            "firstname":  "David"
         },        
         "quote": "The ultimate goal is to convert your athletic swing to pure instinct rather than conscious thought.",
         "tag": ["coach"]
     },
-        {
-        "id": "a37",
+    {
+        
         "name": {
             "surname": "Harmon",
             "firstname": "Butch"
-        },        "quote": "It's much easier to have one swing thought than many.",
+        },        
+        "quote": "It's much easier to have one swing thought than many.",
         "tag": ["coach"]
+    },
+    {
+        "name": {
+            "surname": "Hogan",
+            "firstname": "Ben"
+        },        
+        "quote": "The most important shot in golf is the next one.",
+        "tag": ["famous"]
+    },
+    {
+        
+        "name": {
+            "surname": "Worsdworth",
+            "firstname": "William"
+        },        
+        "quote": "Golf is a day spent in a round of strenious idleness.",
+        "tag": ["famous"]
+    },
+    {
+        "name": {
+            "surname": "Wodehouse",
+            "firstname": "P.G."
+        },        
+        "quote": "To find a man's true character, play golf with him.",
+        "tag": ["famous"]
+    },
+    {
+        "name": {
+            "surname": "Twain",
+            "firstname": "Mark"
+        },        
+        "quote": "Golf is a good walk spoiled.",
+        "tag": ["famous"]
+    },
+    {
+        "name": {
+            "surname": "Norman",
+            "firstname": "Gregg"
+        },        
+        "quote": "Happiness is a long walk with a putter.",
+        "tag": ["famous"]
+    },
+    {
+        
+        "name": {
+            "surname": "Dye",
+            "firstname": "Pete"
+        },        
+        "quote": "The ardent golfer would play Mount Everest if somebody put a flagstick on top.",
+        "tag": ["famous"]
+    },
+    {
+        
+        "name": {
+            "surname": "Faldo",
+            "firstname": "Nick"
+        },        
+        "quote": "Tempo is the glue that sticks all elements of the golf swing together.",
+        "tag": ["coach"]
+    },
+    {
+        
+        "name": {
+            "surname": "Palmer",
+            "firstname": "Arnold"
+        },        
+        "quote": "Golf is deceptively simply and endlessly complicated.",
+        "tag": ["famous"]
+    },
+    {
+        
+        "name": {
+            "surname": "Jones",
+            "firstname": "Bobby"
+        },        
+        "quote": "The secret to golf is to turn three shots into two.",
+        "tag": ["famous"]
+    },
+    {
+        
+        "name": {
+            "surname": "Rodriguez",
+            "firstname": "Chi Chi"
+        },        
+        "quote": "Golf is the most fun you can have without taking your clothes off.",
+        "tag": ["famous"]
+    },
+    {
+        
+        "name": {
+            "surname": "Stewart",
+            "firstname": "Payne"
+        },        
+        "quote": "A bad attitude is worse than a bad swing.",
+        "tag": ["coach"]
+    },
+    {
+        
+        "name": {
+            "surname": "Rotella",
+            "firstname": "Bob"
+        },        
+        "quote": "A golfer has to train their swing on the range, then trust it on the course.",
+        "tag": ["coach"]
+    },
+    {
+        
+        "name": {
+            "surname": "Snead",
+            "firstname": "Sam"
+        },        
+        "quote": "Grip the club as if you were holding a baby bird.",
+        "tag": ["coach"]
+    },
+    {
+        
+        "name": {
+            "surname": "Haney",
+            "firstname": "Hank"
+        },        
+        "quote": "Most people swing too slow, not too fast.",
+        "tag": ["coach"]
+    },
+    {
+        
+        "name": {
+            "surname": "Martin",
+            "firstname": "Dean"
+        },        
+        "quote": "If you drink, don't drive. Don't even putt.",
+        "tag": ["funny"]
     }
 ]

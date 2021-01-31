@@ -2,13 +2,6 @@ const createError = require('http-errors');
 const quotes = require('./quotes');
 
 exports.index = (req, res, next) => {
-
-    // /quotes/
-    // /quotes/?tag=funny
-    // /quotes/?name=palmer
-    // /quotes/?name=palmer&tag=funny
-
-
     if(req.query.tag) {
         let filteredByTag = quotes.filter(quote => quote.tag.includes(req.query.tag))
         if(req.query.name) {
